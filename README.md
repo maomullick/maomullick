@@ -20,13 +20,24 @@ I have experience using a range of design tools, including:
 * Blender
 * Photopea
     
-I'm also proficient in the MS Office suite, including Word, Excel, and PowerPoint, and Google Office suite, including Google Docs, Slides, and Sheets etc.
+I'm also proficient in the MS Office suite, including Word, Excel, and PowerPoint, as well as the Google Office suite, including Google Docs, Slides, and Sheets.
 
-Notable Projects:
-1. TimberGPT: https://github.com/TimberGPT/TimberGPT (Thesis Project)
-   TimberGPT is an interactive AI system designed to support the timber industry in Bangladesh through domain-specific knowledge retrieval and automated wood image analysis. It combines NLP, CV, and RAG-based search.
-2. BetterStart: https://github.com/maomullick/BetterStart
-   BetterStart is a lightweight startup management system designed specifically for small startups. It is offered as a SaaS product and provides a set of tools to streamline core startup operations.
+# 🚀 Notable Projects
+
+[<img src="https://i.ibb.co.com/Z3PX0ww/timbergpt-logo-1.png" alt="TimberGPT Logo" width="160">](https://github.com/TimberGPT/TimberGPT) _(Thesis Project)_
+
+**Description:**  
+TimberGPT is an interactive AI system designed to support the timber industry in Bangladesh through **domain-specific knowledge retrieval** and **automated wood image analysis**.  
+It combines **NLP**, **Computer Vision**, and **RAG-based search**.
+
+
+[<img src="https://i.ibb.co.com/zW6RJFbs/betterstart-logo.png" alt="BetterStart Logo" width="160">](https://github.com/maomullick/BetterStart) _(SE Lab Project)_
+
+**Description:**  
+BetterStart is a lightweight **startup management system (SaaS)** designed for small startups.  
+It provides tools to streamline **core operations**, helping early-stage ventures work more efficiently.
+
+
 
 <h2 style: "display:block;">Languages:</h2>
 <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
