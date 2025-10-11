@@ -13,17 +13,6 @@
 # :speech_balloon: About Me
 A CS graduate from the United International University, and a HCI researcher, focusing on Human Centered AI and Personal Informatics (PI).
 
-# 📚 Software Skills
-I have experience using a range of design tools, including:<br><br>
-    <img src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" alt="Figma" width="40" height="40"/>
-    <img src="https://upload.wikimedia.org/wikipedia/commons/2/20/Photoshop_CC_icon.png" alt="Photoshop" width="40" height="40"/>
-    <img src="https://upload.wikimedia.org/wikipedia/commons/f/fb/Adobe_Illustrator_CC_icon.svg" alt="Illustrator" width="40" height="40"/>
-    <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="Blender" width="40" height="40"/>
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Photopea_logo.svg/1200px-Photopea_logo.svg.png" alt="Photopea" width="40" height="40"/>
-
-    
-I'm also proficient in the MS Office suite, including Word, Excel, and PowerPoint, as well as the Google Office suite, including Google Docs, Slides, and Sheets.
-
 # 🚀 Notable Projects
 
 [<img src="https://i.ibb.co.com/Z3PX0ww/timbergpt-logo-1.png" alt="TimberGPT Logo" width="160">](https://github.com/TimberGPT/TimberGPT) _(Thesis Project)_
@@ -40,6 +29,16 @@ BetterStart is a lightweight **startup management system (SaaS)** designed for s
 It provides tools to streamline **core operations**, helping early-stage ventures work more efficiently.
 
 
+# 📚 Software Skills and Languages
+I have experience using a range of design tools, including:<br><br>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" alt="Figma" width="40" height="40"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/2/20/Photoshop_CC_icon.png" alt="Photoshop" width="40" height="40"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/f/fb/Adobe_Illustrator_CC_icon.svg" alt="Illustrator" width="40" height="40"/>
+    <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="Blender" width="40" height="40"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Photopea_logo.svg/1200px-Photopea_logo.svg.png" alt="Photopea" width="40" height="40"/>
+
+    
+I'm also proficient in the MS Office suite, including Word, Excel, and PowerPoint, as well as the Google Office suite, including Google Docs, Slides, and Sheets.
 
 <h2 style: "display:block;">Languages:</h2>
 <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
