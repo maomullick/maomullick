@@ -33,7 +33,12 @@ I'm also proficient in the MS Office suite, including Word, Excel, and PowerPoin
 <a href="https://www.php.net/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/800px-PHP-logo.svg.png" alt="PHP" height="35" style = "border-radius : 5px;"/> </a>
   
 # 💼 Experience
-I've worked as a Graphics Designer on Upwork and Freelancer, where I've helped clients create visually stunning presentations that effectively communicate their ideas.
+* Undergraduate Teaching Assistant (UA)<br>
+   Full-time<br>
+   Feb 2024 to Jul 2025 (1 year 6 months)<br>
+   I have served as a UA for 1.5 years at UIU, assisting in a total of 250+ students in 11 courses across 4 different trimesters for the following courses: "DSA I & II Laboratory", "Introduction to Computer System", and "OOP Laboratory" courses.<br>
+
+* I've previously worked as a Graphics Designer on Upwork and Freelancer from 2020 to 2023, where I've helped clients create visually stunning presentations that effectively communicate their ideas.
 
 # 🎖️ Awards
 * Champion in **Advanced Object-Oriented Programming Project Competition** @ UIU CSE Project Show Summer 2022
