@@ -22,6 +22,12 @@ I have experience using a range of design tools, including:
     
 I'm also proficient in the MS Office suite, including Word, Excel, and PowerPoint, and Google Office suite, including Google Docs, Slides, and Sheets etc.
 
+Notable Projects:
+1. TimberGPT: https://github.com/TimberGPT/TimberGPT (Thesis Project)
+   TimberGPT is an interactive AI system designed to support the timber industry in Bangladesh through domain-specific knowledge retrieval and automated wood image analysis. It combines NLP, CV, and RAG-based search.
+2. BetterStart: https://github.com/maomullick/BetterStart
+   BetterStart is a lightweight startup management system designed specifically for small startups. It is offered as a SaaS product and provides a set of tools to streamline core startup operations.
+
 <h2 style: "display:block;">Languages:</h2>
 <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
 <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>
