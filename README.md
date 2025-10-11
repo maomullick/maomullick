@@ -56,7 +56,7 @@ I'm also proficient in the MS Office suite, including Word, Excel, and PowerPoin
    Feb 2024 to Jul 2025 (1 year 6 months)<br>
    I have served as a UA for 1.5 years at UIU, assisting in a total of 250+ students in 11 courses across 4 different trimesters for the following courses: "DSA I & II Laboratory", "Introduction to Computer System", and "OOP Laboratory" courses.<br>
 
-I've previously worked as a Graphics Designer on Upwork and Freelancer from 2020 to 2023, where I've helped clients create visually stunning presentations that effectively communicate their ideas.
+I've previously worked as a Graphics Designer on Upwork and Freelancer from 2020 to 2023, where I helped clients create visually stunning presentations that effectively communicated their ideas.
 
 # 🎖️ Awards
 * Champion in **Advanced Object-Oriented Programming Project Competition** @ UIU CSE Project Show Summer 2022
@@ -68,8 +68,6 @@ I've previously worked as a Graphics Designer on Upwork and Freelancer from 2020
 
 <div align="center">
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=maomullick&show_icons=true&locale=en&layout=compact" alt="maomullick" style="display: block; margin: 0 auto;"/></p>
-<p><img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=maomullick&theme=default" alt="maomullick" /></p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=maomullick&show_icons=true&locale=en" alt="maomullick" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=maomullick&" alt="maomullick" /></p>
 <p><img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=maomullick&theme=default" alt="maomullick" /></p>
 
