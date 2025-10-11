@@ -5,24 +5,22 @@
 
   🔭 I’m currently exploring the User Experience(UX) & Research World.  
   💻 I’m currently rendering 3d stuff on Blender.  
-  🌱 I’m currently learning PHP, Javascript, and Blockchain technology.  
-  💬 Ask me about Design, Coding, etc.  
-  📫 How to reach me: abu.obaida168@gmail.com  
+  🌱 I’m currently learning Quantitative Data Analysis.  
+  💬 Ask me about Design, Coding, HCI, etc.  
+  📫 How to reach me: maomullick@gmail.com  
   ⚡ Fun fact: I'm a weirdo who spends most of his time either designing or daydreaming!  
   
 # :speech_balloon: About Me
-I'm a 4th level Computer Science Engineering student with a passion for product design. I am a self-taught product designer and constantly learning new skills to create beautiful and functional designs.
+A CS graduate from the United International University, and a HCI researcher, focusing on Human Centered AI and Personal Informatics (PI).
 
-# 📚 Skills & Languages
+# 📚 Software Skills
 I have experience using a range of design tools, including:
 * Figma
-* Photoshop
-* Illustrator
+* Photoshop & Illustrator
 * Blender
 * Photopea
-* Canva  
     
-I'm also proficient in the MS Office suite, including Word, Excel, and PowerPoint, and Google Office suite including Google Docs, Slides and Sheets, etc.
+I'm also proficient in the MS Office suite, including Word, Excel, and PowerPoint, and Google Office suite, including Google Docs, Slides, and Sheets etc.
 
 <h2 style: "display:block;">Languages:</h2>
 <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
@@ -35,12 +33,13 @@ I'm also proficient in the MS Office suite, including Word, Excel, and PowerPoin
 <a href="https://www.php.net/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/800px-PHP-logo.svg.png" alt="PHP" height="35" style = "border-radius : 5px;"/> </a>
   
 # 💼 Experience
-I've worked as a Presentation Designer on Upwork and Freelancer, where I've helped clients create visually stunning presentations that effectively communicate their ideas.
+I've worked as a Graphics Designer on Upwork and Freelancer, where I've helped clients create visually stunning presentations that effectively communicate their ideas.
 
 # 🎖️ Awards
-* Champion in **System Analysis & Design Project Competition** @ UIU CSE Project Show Fall 2023
 * Champion in **Advanced Object-Oriented Programming Project Competition** @ UIU CSE Project Show Summer 2022
 * 1st Runner Up in **Graphics Design Competition** @ UIU CSE WEEK 2023
+* Champion in **System Analysis & Design Project Competition** @ UIU CSE Project Show Fall 2023
+
 
 # 📈 GitHub Profile Stats
 
