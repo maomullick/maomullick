@@ -1,4 +1,4 @@
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=maomislive&label=Profile%20views&color=0e75b6&style=flat" alt="maomislive" /> </p>
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=maomullick&label=Profile%20views&color=0e75b6&style=flat" alt="maomullick" /> </p>
 
 <div align="center"><h1> Hi there,<br>I am Mohammad Abu Obaida Mullick</h1></div>
 
@@ -49,15 +49,15 @@ I'm also proficient in the MS Office suite, including Word, Excel, and PowerPoin
 # 📈 GitHub Profile Stats
 
 <div align="center">
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=maomislive&show_icons=true&locale=en&layout=compact" alt="maomislive" style="display: block; margin: 0 auto;"/></p>
-<p><img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=maomislive&theme=default" alt="maomislive" /></p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=maomislive&show_icons=true&locale=en" alt="maomislive" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=maomislive&" alt="maomislive" /></p>
-<p><img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=maomislive&theme=default" alt="maomislive" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=maomullick&show_icons=true&locale=en&layout=compact" alt="maomullick" style="display: block; margin: 0 auto;"/></p>
+<p><img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=maomullick&theme=default" alt="maomullick" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=maomullick&show_icons=true&locale=en" alt="maomullick" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=maomullick&" alt="maomullick" /></p>
+<p><img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=maomullick&theme=default" alt="maomullick" /></p>
 
 </div>
 
 # 🏆Github Profile Trophies
 <div align="center">
-<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=maomislive&margin-w=10" alt="maomislive" style="width:80%; "/></a> </p>
+<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=maomullick&margin-w=10" alt="maomullick" style="width:80%; "/></a> </p>
 </div>
