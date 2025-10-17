@@ -30,7 +30,9 @@ It provides tools to streamline **core operations**, helping early-stage venture
 
 
 # 📚 Software Skills and Languages
-I have experience using a range of design tools, including:<br><br>
+I have experience using a range of tools, including:<br><br>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" alt="Power BI" width="40" height="40"/>
+    <img src="https://www.svgrepo.com/show/354012/looker-icon.svg" alt="Looker Studio" width="40" height="40"/>
     <img src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" alt="Figma" width="40" height="40"/>
     <img src="https://upload.wikimedia.org/wikipedia/commons/2/20/Photoshop_CC_icon.png" alt="Photoshop" width="40" height="40"/>
     <img src="https://upload.wikimedia.org/wikipedia/commons/f/fb/Adobe_Illustrator_CC_icon.svg" alt="Illustrator" width="40" height="40"/>
