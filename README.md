@@ -5,7 +5,7 @@
 
   🔭 I’m currently exploring the User Experience(UX) & Research World.  
   💻 I’m currently rendering 3d stuff on Blender.  
-  🌱 I’m currently learning Quantitative Data Analysis.  
+  🌱 I’m currently learning Quantitative Data Analysis, Power BI, and Locker Studio.  
   💬 Ask me about Design, Coding, HCI, etc.  
   📫 How to reach me: maomullick@gmail.com  
   ⚡ Fun fact: I'm a weirdo who spends most of his time either designing or daydreaming!  
