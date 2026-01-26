@@ -11,7 +11,7 @@
   ⚡ Fun fact: I'm a weirdo who spends most of his time either designing or daydreaming!  
   
 # :speech_balloon: About Me
-A Research Assistant, IAR and CS graduate from the United International University, and a HCI researcher, focusing on Human Centered AI and Personal Informatics (PI).
+A Research Assistant, IAR, United International University, focusing on Human Centered AI and Personal Informatics (PI).
 
 # 🚀 Notable Projects
 
