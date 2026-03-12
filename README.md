@@ -1,19 +1,17 @@
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=maomullick&label=Profile%20views&color=0e75b6&style=flat" alt="maomullick" /> </p>
-
 <div align="center"><h1> Hi there,<br>I am Mohammad Abu Obaida Mullick</h1></div>
 
 
   🔭 I’m currently exploring the User Experience(UX) & Research World.  
   💻 I’m currently rendering 3d stuff on Blender.  
-  🌱 I’m currently learning Quantitative Data Analysis, Power BI, and Locker Studio.  
+  🌱 I’m currently learning Quantitative Data Analysis.  
   💬 Ask me about Design, Coding, HCI, etc.  
   📫 How to reach me: maomullick@gmail.com  
   ⚡ Fun fact: I'm a weirdo who spends most of his time either designing or daydreaming!  
   
 # :speech_balloon: About Me
-A Research Assistant, IAR, United International University, focusing on Human Centered AI and Personal Informatics (PI).
+A Research Assistant at Institute for Advanced Research (IAR), United International University. My research interests include Human-Computer Interaction (HCI), with a focus on Human-centered Design and Personal Informatics, and Machine Learning (ML), with an emphasis on Biomedical Informatics, Ensemble Learning, and Deep Learning.
 
-# 🚀 Notable Projects
+# 🚀 Notable Software Projects
 
 [<img src="https://i.ibb.co.com/Z3PX0ww/timbergpt-logo-1.png" alt="TimberGPT Logo" width="160">](https://github.com/TimberGPT/TimberGPT) _(Thesis Project)_
 
@@ -32,7 +30,6 @@ It provides tools to streamline **core operations**, helping early-stage venture
 # 📚 Software Skills and Languages
 I have experience using a range of tools, including:<br><br>
     <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" alt="Power BI" width="40" height="40"/>
-    <img src="https://www.svgrepo.com/show/354012/looker-icon.svg" alt="Looker Studio" width="40" height="40"/>
     <img src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" alt="Figma" width="40" height="40"/>
     <img src="https://upload.wikimedia.org/wikipedia/commons/2/20/Photoshop_CC_icon.png" alt="Photoshop" width="40" height="40"/>
     <img src="https://upload.wikimedia.org/wikipedia/commons/f/fb/Adobe_Illustrator_CC_icon.svg" alt="Illustrator" width="40" height="40"/>
@@ -53,8 +50,14 @@ I'm also proficient in the MS Office suite, including Word, Excel, and PowerPoin
 <a href="https://www.php.net/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/800px-PHP-logo.svg.png" alt="PHP" height="35" style = "border-radius : 5px;"/> </a>
   
 # 💼 Experience
-* Undergraduate Teaching Assistant (UA)<br>
+
+* <strong> Research Assistant (RA) </strong><br>
    Full-time<br>
+   Jan 2026 to Present<br>
+   Supported faculty-led research at UIU through data collection, statistical analysis, literature review, and preparation of reports and presentations, reviewing students' research manuscripts, and contributing to the advancement of research projects and methodologies.<br>
+   Project Scope: ML + HCI + Digital Health<br>
+* <strong> Undergraduate Teaching Assistant (UA) </strong> <br>
+   Part-time<br>
    Feb 2024 to Jul 2025 (1 year 6 months)<br>
    I have served as a UA for 1.5 years at UIU, assisting in a total of 250+ students in 11 courses across 4 different trimesters for the following courses: "DSA I & II Laboratory", "Introduction to Computer System", and "OOP Laboratory" courses.<br>
 
